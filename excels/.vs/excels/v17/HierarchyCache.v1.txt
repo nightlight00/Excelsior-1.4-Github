@@ -1,0 +1,1205 @@
+﻿++Solution 'excels' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:excels.sln
+++excels
+i:{00000000-0000-0000-0000-000000000000}:excels
+++Dependencies
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:>1617
+++Properties
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\properties\
+++Buffs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\buffs\
+++ClericCld
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\buffs\clericcld\
+++AnguishedSoul.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\buffs\clericcld\anguishedsoul.png
+++BlessingCooldown.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\buffs\clericcld\blessingcooldown.png
+++ClericCooldowns.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\buffs\clericcld\clericcooldowns.cs
+++Debuffs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\buffs\debuffs\
+++Debuffs.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\buffs\debuffs\debuffs.cs
+++FragileBones.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\buffs\debuffs\fragilebones.png
+++Marked.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\buffs\debuffs\marked.png
+++Mycosis.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\buffs\debuffs\mycosis.png
+++SpellCurse.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\buffs\debuffs\spellcurse.png
+++Flasks
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\buffs\flasks\
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\potions\flasks\
+++GlacialImbueBuff.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\buffs\flasks\glacialimbuebuff.png
+++Imbues.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\buffs\flasks\imbues.cs
+++MeleeBuffs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\buffs\meleebuffs\
+++Dusts
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\dusts\
+++Items
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\
+++Accessories
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\accessories\
+++Banner
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\accessories\banner\
+++Cleric
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\accessories\cleric\
+++Healing
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\accessories\cleric\healing\
+++Antitoxins.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\accessories\cleric\healing\antitoxins.png
+++ApothSatchel.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\accessories\cleric\healing\apothsatchel.png
+++Healer1.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\accessories\cleric\healing\healer1.cs
+++Expert
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\accessories\expert\
+++ChasmExpertAcc.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\accessories\expert\chasmexpertacc.png
+++ChasmExpertAcc_Old.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\accessories\expert\chasmexpertacc_old.png
+++ExpertAcc.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\accessories\expert\expertacc.cs
+++NiflheimExpertAcc.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\accessories\expert\niflheimexpertacc.png
+++StellarExpertAcc.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\accessories\expert\stellarexpertacc.png
+++StellarMinionA.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\accessories\expert\stellarminiona.png
+++StellarMinionA_Glow.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\accessories\expert\stellarminiona_glow.png
+++StellarMinionB.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\accessories\expert\stellarminionb.png
+++StellarMinions.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\accessories\expert\stellarminions.cs
+++Random
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\accessories\random\
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\furniture\random\
+++Shield
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\accessories\shield\
+++Summon
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\accessories\summon\
+++FriendshipBracelet.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\accessories\summon\friendshipbracelet.png
+++SummonAcc.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\accessories\summon\summonacc.cs
+++Wings
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\accessories\wings\
+++AccessoryDrawHelper.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\accessories\accessorydrawhelper.cs
+++Ammo
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\ammo\
+++Arrows
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\ammo\arrows\
+++ArrowItems.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\ammo\arrows\arrowitems.cs
+++PoisonTippedArrow.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\ammo\arrows\poisontippedarrow.png
+++Bullets
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\ammo\bullets\
+++BulletItems.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\ammo\bullets\bulletitems.cs
+++GlacialBul.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\ammo\bullets\glacialbul.png
+++Rockets
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\ammo\rockets\
+++Armor
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\
+++Avian
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\avian\
+++Fossil
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\fossil\
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\fossil\
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\fossil\
+++Glacial
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\glacial\
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\glacial\
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\glacial\
+++GlacialArmor.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\glacial\glacialarmor.cs
+++GlacialBody.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\glacial\glacialbody.png
+++GlacialBody_Body.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\glacial\glacialbody_body.png
+++GlacialHelm.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\glacial\glacialhelm.png
+++GlacialHelm_Head.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\glacial\glacialhelm_head.png
+++GlacialLegs.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\glacial\glaciallegs.png
+++GlacialLegs_Legs.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\glacial\glaciallegs_legs.png
+++Skyline
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\skyline\
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\skyline\
+++SkylineArmor.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\skyline\skylinearmor.cs
+++SkylineBody.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\skyline\skylinebody.png
+++SkylineBody_Body.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\skyline\skylinebody_body.png
+++SkylineHead.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\skyline\skylinehead.png
+++SkylineHead_Head.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\skyline\skylinehead_head.png
+++SkylineLegs.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\skyline\skylinelegs.png
+++SkylineLegs_Legs.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\skyline\skylinelegs_legs.png
+++Stellar
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\stellar\
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\stellar\
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\stellar\
+++StellarArmor.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\stellar\stellararmor.cs
+++StellarBoots.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\stellar\stellarboots.png
+++StellarBoots_Legs.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\stellar\stellarboots_legs.png
+++StellarChest.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\stellar\stellarchest.png
+++StellarChest_Body.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\stellar\stellarchest_body.png
+++StellarHelm.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\stellar\stellarhelm.png
+++StellarHelm_Head.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\stellar\stellarhelm_head.png
+++Wyvern
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\wyvern\
+++WindPixie.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\wyvern\windpixie.png
+++WyvernArmor.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\wyvern\wyvernarmor.cs
+++WyvernBoots.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\wyvern\wyvernboots.png
+++WyvernBoots_Legs.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\wyvern\wyvernboots_legs.png
+++WyvernHood.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\wyvern\wyvernhood.png
+++WyvernHood_Head.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\wyvern\wyvernhood_head.png
+++WyvernScalemail.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\wyvern\wyvernscalemail.png
+++WyvernScalemail_Body.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\wyvern\wyvernscalemail_body.png
+++Bags
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\bags\
+++Food
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\food\
+++Furniture
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\furniture\
+++Materials
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\materials\
+++Misc
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\misc\
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\tiles\misc\
+++Fans
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\misc\fans\
+++Fans.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\misc\fans\fans.cs
+++HarpyFan.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\misc\fans\harpyfan.png
+++SakuraFan.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\misc\fans\sakurafan.png
+++WyvernsWing.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\misc\fans\wyvernswing.png
+++Summons
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\misc\summons\
+++Potions
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\potions\
+++FrostfireFlask.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\potions\flasks\frostfireflask.png
+++MeleeFlasks.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\potions\flasks\meleeflasks.cs
+++TileItems
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\tileitems\
+++Tools
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\tools\
+++Fishing
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\tools\fishing\
+++DualBobbers.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\tools\fishing\dualbobbers.png
+++DualHookingPole.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\tools\fishing\dualhookingpole.png
+++FishingRods.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\tools\fishing\fishingrods.cs
+++Vanity
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\vanity\
+++WeaponHeal
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weaponheal\
+++Generic
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weaponheal\generic\
+++Bidents.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weaponheal\generic\bidents.cs
+++DiamondCutter.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weaponheal\generic\diamondcutter.png
+++GoldBident.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weaponheal\generic\goldbident.png
+++HealingBolt.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weaponheal\generic\healingbolt.png
+++HealingRoseBolt.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weaponheal\generic\healingrosebolt.png
+++PlatinumBident.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weaponheal\generic\platinumbident.png
+++RoseWand.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weaponheal\generic\rosewand.cs
+++RoseWand.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weaponheal\generic\rosewand.png
+++RubyDefender.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weaponheal\generic\rubydefender.png
+++WoodenCross.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weaponheal\generic\woodencross.cs
+++WoodenCross.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weaponheal\generic\woodencross.png
+++Weapons
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\
+++Blood
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\blood\
+++Drippling.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\blood\drippling.cs
+++DripplingEye.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\blood\dripplingeye.png
+++DripplingSpirit.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\blood\dripplingspirit.png
+++DripplingStick.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\blood\dripplingstick.png
+++Scarlet.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\blood\scarlet.cs
+++ScarletScythe.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\blood\scarletscythe.png
+++ScarletSlash.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\blood\scarletslash.png
+++ScarletSlash_Glow.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\blood\scarletslash_glow.png
+++Boomerang
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\boomerang\
+++Bows
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\bows\
+++Bows.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\bows\bows.cs
+++HunterLongbow.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\bows\hunterlongbow.png
+++HuntingArrow.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\bows\huntingarrow.png
+++JungleBow.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\bows\junglebow.png
+++PoisonArrow.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\bows\poisonarrow.png
+++StalkersBow.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\bows\stalkersbow.png
+++StalkingArrow.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\bows\stalkingarrow.png
+++Chasm
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\chasm\
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\chasm\
+++Flamethrower
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\flamethrower\
+++Flamethrowers.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\flamethrower\flamethrowers.cs
+++Hellslinger.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\flamethrower\hellslinger.png
+++Fungal
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\fungal\
+++Shroom.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\fungal\shroom.cs
+++ShroomSpore.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\fungal\shroomspore.png
+++ShroomStaff.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\fungal\shroomstaff.png
+++ShroomSword.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\fungal\shroomsword.png
+++ShroomyBoi.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\fungal\shroomyboi.png
+++ShroomyBuff.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\fungal\shroomybuff.png
+++StrangeShroom.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\fungal\strangeshroom.png
+++Bar
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\glacial\bar\
+++Froslance.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\glacial\bar\froslance.png
+++FroslanceProj.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\glacial\bar\froslanceproj.png
+++GlacialBullet.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\glacial\bar\glacialbullet.png
+++GlacialGun.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\glacial\bar\glacialgun.png
+++GlacialWeapons.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\glacial\bar\glacialweapons.cs
+++Snowdance.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\glacial\bar\snowdance.png
+++Boss
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\glacial\boss\
+++DarkEye.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\glacial\boss\darkeye.png
+++DarkEyeProj.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\glacial\boss\darkeyeproj.png
+++FrozenBlade.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\glacial\boss\frozenblade.png
+++FrozenChainblade.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\glacial\boss\frozenchainblade.png
+++GlacialBossWeapons.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\glacial\boss\glacialbossweapons.cs
+++Nastrond.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\glacial\boss\nastrond.png
+++Granite
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\granite\
+++EnergyDischarge.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\granite\energydischarge.png
+++EnergyDischarge_Glow.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\granite\energydischarge_glow.png
+++EnergyPickaxe.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\granite\energypickaxe.png
+++EnergyStorm.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\granite\energystorm.png
+++EnergySword.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\granite\energysword.png
+++GraniteEnergyWeap.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\granite\graniteenergyweap.cs
+++GraniteSurge.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\granite\granitesurge.png
+++Guns1
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\guns1\
+++Guns.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\guns1\guns.cs
+++MeanGreens.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\guns1\meangreens.png
+++PurpleHaze.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\guns1\purplehaze.png
+++SnowballCannonEX.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\guns1\snowballcannonex.png
+++TommyGun.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\guns1\tommygun.png
+++VelvetMaw.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\guns1\velvetmaw.png
+++HolyWeap
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\holyweap\
+++FiredUp.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\holyweap\firedup.png
+++FlameHammer.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\holyweap\flamehammer.cs
+++FlamingWarhammer.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\holyweap\flamingwarhammer.png
+++Fork.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\holyweap\fork.cs
+++Heartache.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\holyweap\heartache.png
+++Heartbreaker.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\holyweap\heartbreaker.cs
+++Heartbreaker.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\holyweap\heartbreaker.png
+++TuningFork.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\holyweap\tuningfork.png
+++Launcher1
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\launcher1\
+++MageGun
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\magegun\
+++Necrotic1
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\necrotic1\
+++EvilBoss
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\necrotic1\evilboss\
+++BloodlettingEye.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\necrotic1\evilboss\bloodlettingeye.png
+++CrimsonHeart.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\necrotic1\evilboss\crimsonheart.png
+++DevouringRod.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\necrotic1\evilboss\devouringrod.png
+++EvilWeaps.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\necrotic1\evilboss\evilweaps.cs
+++ShadowOrb.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\necrotic1\evilboss\shadoworb.png
+++Hell
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\necrotic1\hell\
+++DevilPitchfork.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\necrotic1\hell\devilpitchfork.png
+++DevilPitchfork2.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\necrotic1\hell\devilpitchfork2.png
+++Pitchfork.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\necrotic1\hell\pitchfork.cs
+++Prismite
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\prismite\
+++Radiant1
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\radiant1\
+++CoralBubble.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\radiant1\coralbubble.png
+++CoralBubble_Glow.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\radiant1\coralbubble_glow.png
+++CoralScepter.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\radiant1\coralscepter.cs
+++CoralScepter.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\radiant1\coralscepter.png
+++Shroomite
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\shroomite\
+++SkylineBow.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\skyline\skylinebow.png
+++SkylineCane.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\skyline\skylinecane.png
+++SkylineCaneBuff.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\skyline\skylinecanebuff.png
+++SkylineCaneMinion.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\skyline\skylinecaneminion.png
+++SkylineStaff.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\skyline\skylinestaff.png
+++SkylineWeapons.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\skyline\skylineweapons.cs
+++SkylineYoyo.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\skyline\skylineyoyo.png
+++SkylineYoyoProj.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\skyline\skylineyoyoproj.png
+++Spirits
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\spirits\
+++MagmaEmber.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\spirits\magmaember.png
+++MagmaRod.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\spirits\magmarod.png
+++MagmaSpirit.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\spirits\magmaspirit.cs
+++MagmaSpirit.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\spirits\magmaspirit.png
+++Staff1
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\staff1\
+++StellarAlienSidearm.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\stellar\stellaraliensidearm.png
+++StellarBow.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\stellar\stellarbow.png
+++StellarCommandRod.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\stellar\stellarcommandrod.png
+++StellarCommandShip.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\stellar\stellarcommandship.png
+++StellarCommandShip_Glow.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\stellar\stellarcommandship_glow.png
+++StellarEnergyBlade.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\stellar\stellarenergyblade.png
+++StellarRocketS.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\stellar\stellarrockets.png
+++StellarRocketS_Glow.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\stellar\stellarrockets_glow.png
+++StellarWeapons.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\stellar\stellarweapons.cs
+++Sword1
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\sword1\
+++ThrowPotions
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\throwpotions\
+++FierySpell.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\throwpotions\fieryspell.png
+++FierySpell_Glow.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\throwpotions\fieryspell_glow.png
+++FierySpellPot.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\throwpotions\fieryspellpot.png
+++FierySpellThrow.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\throwpotions\fieryspellthrow.png
+++FungalSpell.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\throwpotions\fungalspell.png
+++FungalSpell_Glow.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\throwpotions\fungalspell_glow.png
+++FungalSpellPot.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\throwpotions\fungalspellpot.png
+++FungalSpellThrow.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\throwpotions\fungalspellthrow.png
+++SpellBase.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\throwpotions\spellbase.cs
+++Spells.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\throwpotions\spells.cs
+++ToxicSpell.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\throwpotions\toxicspell.png
+++ToxicSpell_Glow.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\throwpotions\toxicspell_glow.png
+++ToxicSpellPot.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\throwpotions\toxicspellpot.png
+++ToxicSpellThrow.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\throwpotions\toxicspellthrow.png
+++Whips
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\whips\
+++ObsidianLash.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\whips\obsidianlash.png
+++ObsidianLashP.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\whips\obsidianlashp.png
+++WhipCode.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\whips\whipcode.cs
+++Rarities.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\rarities.cs
+++NPCs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\
+++Tiles
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\tiles\
+++build.txt
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\build.txt
+++clericBase.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\clericbase.cs
+++clericProjBasses.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\clericprojbasses.cs
+++description.txt
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\description.txt
+++exampleicon.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\exampleicon.png
+++excelNPC.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\excelnpc.cs
+++excelPlayer.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\excelplayer.cs
+++excelProjectile.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\excelprojectile.cs
+++excels.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\excels.cs
+++excelWorld.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\excelworld.cs
+++icon.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\icon.png
+++UpgradeLog.htm
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\upgradelog.htm
+++workshop.json
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\workshop.json
+++Analyzers
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:analyzers
+++Assemblies
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:assemblies
+++Frameworks
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:frameworks
+++launchSettings.json
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\properties\launchsettings.json
+++BerserkerRage.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\buffs\meleebuffs\berserkerrage.png
+++MeleeBuffs.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\buffs\meleebuffs\meleebuffs.cs
+++ChasmBodyDust.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\dusts\chasmbodydust.png
+++ChasmHeadDust.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\dusts\chasmheaddust.png
+++DustsCode.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\dusts\dustscode.cs
+++EnergyDust.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\dusts\energydust.png
+++FossilBoneDust.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\dusts\fossilbonedust.png
+++GlacialDust.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\dusts\glacialdust.png
+++SkylineDust.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\dusts\skylinedust.png
+++FireBanner.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\accessories\banner\firebanner.png
+++RegenBanner.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\accessories\banner\regenbanner.png
+++ShadowflameBanner.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\accessories\banner\shadowflamebanner.png
+++SummonBanners.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\accessories\banner\summonbanners.cs
+++VenomBanner.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\accessories\banner\venombanner.png
+++MimicToothNecklace.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\accessories\random\mimictoothnecklace.png
+++RandomAcc.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\accessories\random\randomacc.cs
+++BeetleShield.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\accessories\shield\beetleshield.png
+++BeetleShield_Shield.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\accessories\shield\beetleshield_shield.png
+++Shields.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\accessories\shield\shields.cs
+++FossilisedWings.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\accessories\wings\fossilisedwings.png
+++FossilisedWings_Wings.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\accessories\wings\fossilisedwings_wings.png
+++WingCodeHurray.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\accessories\wings\wingcodehurray.cs
+++PreHard.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\ammo\rockets\prehard.cs
+++AvianArmor.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\avian\avianarmor.cs
+++AvianChest.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\avian\avianchest.png
+++AvianChest_Body.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\avian\avianchest_body.png
+++AvianHead.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\avian\avianhead.png
+++AvianHead_Head.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\avian\avianhead_head.png
+++AvianSkirt.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\avian\avianskirt.png
+++AvianSkirt_Legs.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\avian\avianskirt_legs.png
+++FossilArmor.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\fossil\fossilarmor.cs
+++FossilChest.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\fossil\fossilchest.png
+++FossilChest_Body.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\fossil\fossilchest_body.png
+++FossilGreaves.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\fossil\fossilgreaves.png
+++FossilGreaves_Legs.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\fossil\fossilgreaves_legs.png
+++FossilMask.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\fossil\fossilmask.png
+++FossilMask_Head.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\fossil\fossilmask_head.png
+++BagChasm.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\bags\bagchasm.png
+++BagNiflheim.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\bags\bagniflheim.png
+++Bags.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\bags\bags.cs
+++BagStarship.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\bags\bagstarship.png
+++Carrot.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\food\carrot.png
+++Foods.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\food\foods.cs
+++Anvils
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\furniture\anvils\
+++GraniteEne
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\furniture\graniteene\
+++Trophy
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\furniture\trophy\
+++AncientFossil.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\materials\ancientfossil.png
+++EnergizedGranite.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\materials\energizedgranite.png
+++GlacialBar.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\materials\glacialbar.png
+++GlacialOre.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\materials\glacialore.png
+++OresAndBars.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\materials\oresandbars.cs
+++SkylineBar.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\materials\skylinebar.png
+++SkylineOre.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\materials\skylineore.png
+++StellarPlating.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\materials\stellarplating.png
+++WyvernScale.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\materials\wyvernscale.png
+++BossSummons.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\misc\summons\bosssummons.cs
+++InfectionRadar.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\misc\summons\infectionradar.png
+++PlanetaryTrackingDevice.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\misc\summons\planetarytrackingdevice.png
+++ReflectiveIceShard.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\misc\summons\reflectiveiceshard.png
+++CheckerItem.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\tileitems\checkeritem.png
+++CheckerWallItem.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\tileitems\checkerwallitem.png
+++GlacialBrick.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\tileitems\glacialbrick.png
+++MiscTiles.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\tileitems\misctiles.cs
+++SkylineBrick.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\tileitems\skylinebrick.png
+++SkylineBrickWallItem.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\tileitems\skylinebrickwallitem.png
+++DevCoat.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\vanity\devcoat.png
+++DevCoat_Body.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\vanity\devcoat_body.png
+++MafiosoHat.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\vanity\mafiosohat.png
+++MafiosoHat_Head.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\vanity\mafiosohat_head.png
+++VanityItems.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\vanity\vanityitems.cs
+++Boomerangs.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\boomerang\boomerangs.cs
+++Glaive.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\boomerang\glaive.png
+++ChasmDrops.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\chasm\chasmdrops.cs
+++MushroomSkewer.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\chasm\mushroomskewer.png
+++Skewer.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\chasm\skewer.png
+++SkewerSlice.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\chasm\skewerslice.png
+++V90.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\chasm\v90.png
+++AncientDebris.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\fossil\ancientdebris.png
+++FossilCannon.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\fossil\fossilcannon.png
+++FossilChunks.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\fossil\fossilchunks.png
+++FossilisedBlade.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\fossil\fossilisedblade.png
+++FossilWeapons.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\fossil\fossilweapons.cs
+++FlareCannon.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\launcher1\flarecannon.cs
+++FlareCannon.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\launcher1\flarecannon.png
+++FlareRocket.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\launcher1\flarerocket.png
+++MageGuns.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\magegun\mageguns.cs
+++StormCaller.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\magegun\stormcaller.png
+++ThunderLord.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\magegun\thunderlord.png
+++Zeus.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\magegun\zeus.png
+++ZeusOrb.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\magegun\zeusorb.png
+++PrismiteArrow.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\prismite\prismitearrow.png
+++PrismiteBow.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\prismite\prismitebow.png
+++PrismiteShard.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\prismite\prismiteshard.png
+++PrismiteSword.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\prismite\prismitesword.png
+++PrismiteWeapons.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\prismite\prismiteweapons.cs
+++ShroomiteBow.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\shroomite\shroomitebow.png
+++ShroomiteLobber.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\shroomite\shroomitelobber.png
+++ShroomiteShredder.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\shroomite\shroomiteshredder.png
+++ShroomWeaponry.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\shroomite\shroomweaponry.cs
+++BladeMagic.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\staff1\blademagic.png
+++BladeWand.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\staff1\bladewand.png
+++DanceIceFire.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\staff1\danceicefire.png
+++ElementalEnvoy.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\staff1\elementalenvoy.png
+++FrozenScarf.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\staff1\frozenscarf.png
+++IcicleP.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\staff1\iciclep.png
+++Singe.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\staff1\singe.png
+++SingeStaff.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\staff1\singestaff.png
+++SporeStaff.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\staff1\sporestaff.png
+++Staves.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\staff1\staves.cs
+++BerserkerBlade.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\sword1\berserkerblade.png
+++RandomSwords.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\sword1\randomswords.cs
+++Brimstone
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\brimstone\
+++Dungeon
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\dungeon\
+++Meteorite
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\meteorite\
+++Snow
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\snow\
+++Space
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\space\
+++Banners
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\tiles\banners\
+++GranFurn
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\tiles\granfurn\
+++OresBars
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\tiles\oresbars\
+++Trophie
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\tiles\trophie\
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++System.Text.Json.SourceGeneration
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Basic.Reference.Assemblies.Net60
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\basic.reference.assemblies.net60\1.2.4\lib\netstandard2.0\basic.reference.assemblies.net60.dll
+++CsvHelper
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\csvhelper\2.0.0.0\csvhelper.dll
+++FNA
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\fna\1.0.0\fna.dll
+++Hjson
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\hjson\3.0.0\lib\netstandard1.3\hjson.dll
+++Humanizer
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\humanizer.core\2.2.0\lib\netstandard1.0\humanizer.dll
+++Ionic.Zip.Reduced
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\ionic.zip.reduced\1.9.1.8\ionic.zip.reduced.dll
+++log4net
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\log4net\2.0.8.0\log4net.dll
+++Microsoft.Bcl.AsyncInterfaces
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.bcl.asyncinterfaces\6.0.0\lib\netstandard2.1\microsoft.bcl.asyncinterfaces.dll
+++Microsoft.Build.Locator
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.build.locator\1.4.1\lib\netcoreapp2.0\microsoft.build.locator.dll
+++Microsoft.CodeAnalysis
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.common\4.2.0\lib\netcoreapp3.1\microsoft.codeanalysis.dll
+++Microsoft.CodeAnalysis.CSharp
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.csharp\4.2.0\lib\netcoreapp3.1\microsoft.codeanalysis.csharp.dll
+++Microsoft.CodeAnalysis.CSharp.Workspaces
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.csharp.workspaces\4.2.0\lib\netcoreapp3.1\microsoft.codeanalysis.csharp.workspaces.dll
+++Microsoft.CodeAnalysis.Workspaces
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.workspaces.common\4.2.0\lib\netcoreapp3.1\microsoft.codeanalysis.workspaces.dll
+++Microsoft.CodeAnalysis.Workspaces.MSBuild
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.workspaces.msbuild\4.2.0\lib\netcoreapp3.1\microsoft.codeanalysis.workspaces.msbuild.dll
+++Microsoft.Win32.SystemEvents
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.win32.systemevents\6.0.0\lib\net6.0\microsoft.win32.systemevents.dll
+++Mono.Cecil
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\mono.cecil\0.11.4\lib\netstandard2.0\mono.cecil.dll
+++Mono.Cecil.Mdb
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\mono.cecil\0.11.4\lib\netstandard2.0\mono.cecil.mdb.dll
+++Mono.Cecil.Pdb
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\mono.cecil\0.11.4\lib\netstandard2.0\mono.cecil.pdb.dll
+++Mono.Cecil.Rocks
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\mono.cecil\0.11.4\lib\netstandard2.0\mono.cecil.rocks.dll
+++MonoMod.RuntimeDetour
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\monomod.runtimedetour\22.5.31.2\lib\net5.0\monomod.runtimedetour.dll
+++MonoMod.Utils
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\monomod.utils\22.5.31.2\lib\net5.0\monomod.utils.dll
+++MP3Sharp
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\mp3sharp\1.0.0.0\mp3sharp.dll
+++Newtonsoft.Json
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\newtonsoft.json\12.0.0.0\newtonsoft.json.dll
+++NVorbis
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\nvorbis\0.10.0.3\nvorbis.dll
+++RailSDK.Net
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\railsdk.net\1.0.0.0\railsdk.net.dll
+++ReLogic
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\relogic\1.0.0\relogic.dll
+++SixLabors.ImageSharp
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\sixlabors.imagesharp\1.0.3\lib\netcoreapp3.1\sixlabors.imagesharp.dll
+++Steamworks.NET
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\steamworks.net\20.1.0.0\steamworks.net.dll
+++SteelSeriesEngineWrapper
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\steelseriesenginewrapper\1.0.0.0\steelseriesenginewrapper.dll
+++System.CodeDom
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\system.codedom\6.0.0\lib\net6.0\system.codedom.dll
+++System.Composition.AttributedModel
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\system.composition.attributedmodel\6.0.0\lib\net6.0\system.composition.attributedmodel.dll
+++System.Composition.Convention
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\system.composition.convention\6.0.0\lib\net6.0\system.composition.convention.dll
+++System.Composition.Hosting
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\system.composition.hosting\6.0.0\lib\net6.0\system.composition.hosting.dll
+++System.Composition.Runtime
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\system.composition.runtime\6.0.0\lib\net6.0\system.composition.runtime.dll
+++System.Composition.TypedParts
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\system.composition.typedparts\6.0.0\lib\net6.0\system.composition.typedparts.dll
+++System.Configuration.ConfigurationManager
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\system.configuration.configurationmanager\6.0.0\lib\net6.0\system.configuration.configurationmanager.dll
+++System.Diagnostics.PerformanceCounter
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\system.diagnostics.performancecounter\6.0.0\lib\net6.0\system.diagnostics.performancecounter.dll
+++System.Drawing.Common
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\system.drawing.common\6.0.0\lib\net6.0\system.drawing.common.dll
+++System.IO.Pipelines
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\system.io.pipelines\6.0.1\lib\net6.0\system.io.pipelines.dll
+++System.Reflection.MetadataLoadContext
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\system.reflection.metadataloadcontext\6.0.0\lib\net6.0\system.reflection.metadataloadcontext.dll
+++System.Security.Cryptography.ProtectedData
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\system.security.cryptography.protecteddata\6.0.0\lib\net6.0\system.security.cryptography.protecteddata.dll
+++System.Security.Permissions
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\system.security.permissions\6.0.0\lib\net6.0\system.security.permissions.dll
+++System.Windows.Extensions
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\system.windows.extensions\6.0.0\lib\net6.0\system.windows.extensions.dll
+++TerrariaHooks
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\terrariahooks\0.0.0.0\terrariahooks.dll
+++tModLoader
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\tmodloader.dll
+++tModPorter
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\tmodporter\1.0.0\tmodporter.dll
+++UtfUnknown
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\utf.unknown\2.5.0\lib\netcoreapp3.0\utfunknown.dll
+++Microsoft.NETCore.App
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\microsoft.netcore.app
+++Anvilss.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\furniture\anvils\anvilss.cs
+++StarlightAnvil.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\furniture\anvils\starlightanvil.png
+++GranFurniture.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\furniture\graniteene\granfurniture.cs
+++GranTorch.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\furniture\graniteene\grantorch.png
+++GranTorch_Flame.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\furniture\graniteene\grantorch_flame.png
+++NightLightLamp.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\furniture\random\nightlightlamp.png
+++RandomFurn.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\furniture\random\randomfurn.cs
+++StellarTrophy.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\furniture\trophy\stellartrophy.png
+++Trophies.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\furniture\trophy\trophies.cs
+++BrimstoneEnems.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\brimstone\brimstoneenems.cs
+++BrimstoneSeeker.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\brimstone\brimstoneseeker.png
+++Gores
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\chasm\gores\
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\fossil\gores\
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\glacial\gores\
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\stellar\gores\
+++Quake
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\chasm\quake\
+++Chasm_Bestiary.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\chasm\chasm_bestiary.png
+++ChasmBody.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\chasm\chasmbody.png
+++ChasmBoss.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\chasm\chasmboss.cs
+++ChasmHead.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\chasm\chasmhead.png
+++ChasmHead_Head_Boss.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\chasm\chasmhead_head_boss.png
+++ChasmProjectiles.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\chasm\chasmprojectiles.cs
+++ChasmTail.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\chasm\chasmtail.png
+++InfectionCloud.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\chasm\infectioncloud.png
+++InfectionWave.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\chasm\infectionwave.png
+++InfectionWave_Glow.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\chasm\infectionwave_glow.png
+++DungeonEnemies.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\dungeon\dungeonenemies.cs
+++DungeonMimic.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\dungeon\dungeonmimic.png
+++FossilEnems.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\fossil\fossilenems.cs
+++Fossilraptor.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\fossil\fossilraptor.png
+++RexxieSkull.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\fossil\rexxieskull.png
+++GBeholder.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\glacial\gbeholder.cs
+++GlacialAngel.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\glacial\glacialangel.png
+++GlacialArmor.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\glacial\glacialarmor.png
+++GlacialBeholder.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\glacial\glacialbeholder.png
+++GlacialProjectiles.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\glacial\glacialprojectiles.cs
+++GlacialQueen.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\glacial\glacialqueen.cs
+++GlacialQueen.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\glacial\glacialqueen.png
+++GlacialQueen_Head_Boss.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\glacial\glacialqueen_head_boss.png
+++GlacialQueen_Head_Boss_SecondStage.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\glacial\glacialqueen_head_boss_secondstage.png
+++SnowBalls.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\glacial\snowballs.png
+++FlamingSludge.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\meteorite\flamingsludge.png
+++MeteorEnem.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\meteorite\meteorenem.cs
+++MeteorGolem.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\meteorite\meteorgolem.png
+++MeteorSpirit.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\meteorite\meteorspirit.png
+++Gangstas.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\snow\gangstas.cs
+++Icicle.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\snow\icicle.png
+++SnowCasta.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\snow\snowcasta.png
+++SnowGolem.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\snow\snowgolem.png
+++StabbyJr.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\snow\stabbyjr.png
+++SkylineHarpy.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\space\skylineharpy.png
+++SpaceEnemies.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\space\spaceenemies.cs
+++GreenPlasma.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\stellar\greenplasma.png
+++GreenPlasma_Glow.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\stellar\greenplasma_glow.png
+++StellarFlare.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\stellar\stellarflare.png
+++StellarFlare_Glow.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\stellar\stellarflare_glow.png
+++StellarMinion.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\stellar\stellarminion.cs
+++StellarRocket.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\stellar\stellarrocket.png
+++StellarRocket_Glow.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\stellar\stellarrocket_glow.png
+++StellarShip1.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\stellar\stellarship1.png
+++StellarShip1_Glow.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\stellar\stellarship1_glow.png
+++StellarShip2.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\stellar\stellarship2.png
+++StellarShip2_Glow.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\stellar\stellarship2_glow.png
+++StellarStarship.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\stellar\stellarstarship.cs
+++StellarStarship.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\stellar\stellarstarship.png
+++StellarStarship_Glow.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\stellar\stellarstarship_glow.png
+++StellProj.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\stellar\stellproj.cs
+++BItems
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\tiles\banners\bitems\
+++ExcelBanners.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\tiles\banners\excelbanners.cs
+++ExcelBanners.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\tiles\banners\excelbanners.png
+++GranFurn.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\tiles\granfurn\granfurn.cs
+++GranTorchT.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\tiles\granfurn\grantorcht.png
+++GranTorchT_Flame.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\tiles\granfurn\grantorcht_flame.png
+++CheckerTile.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\tiles\misc\checkertile.png
+++CheckerWall.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\tiles\misc\checkerwall.png
+++GlacialBrickTile.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\tiles\misc\glacialbricktile.png
+++MiscTile.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\tiles\misc\misctile.cs
+++SkylineBrickTile.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\tiles\misc\skylinebricktile.png
+++SkylineBrickWall.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\tiles\misc\skylinebrickwall.png
+++StarlightAnvilTile.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\tiles\misc\starlightanviltile.png
+++ExcelBarTiles.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\tiles\oresbars\excelbartiles.png
+++GlacialOreTile.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\tiles\oresbars\glacialoretile.png
+++OresNBars.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\tiles\oresbars\oresnbars.cs
+++SkylineOreTile.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\tiles\oresbars\skylineoretile.png
+++NightLightLampy.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\tiles\trophie\nightlightlampy.png
+++StellarTrophyTile.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\tiles\trophie\stellartrophytile.png
+++TrophyTiles.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\tiles\trophie\trophytiles.cs
+++ChasmGoreBody.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\chasm\gores\chasmgorebody.png
+++ChasmGoreEye.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\chasm\gores\chasmgoreeye.png
+++ChasmGoreMandible.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\chasm\gores\chasmgoremandible.png
+++ChasmGoreMush1.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\chasm\gores\chasmgoremush1.png
+++ChasmGoreMush2.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\chasm\gores\chasmgoremush2.png
+++ChasmGoreMush3.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\chasm\gores\chasmgoremush3.png
+++QuakeBossMinion.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\chasm\quake\quakebossminion.cs
+++QuakeBossMinion.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\chasm\quake\quakebossminion.png
+++RaptorGoreHead.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\fossil\gores\raptorgorehead.png
+++RaptorGoreLeg.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\fossil\gores\raptorgoreleg.png
+++RaptorGoreRibs.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\fossil\gores\raptorgoreribs.png
+++RexxieGoreHead.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\fossil\gores\rexxiegorehead.png
+++RexxieGoreJaw.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\fossil\gores\rexxiegorejaw.png
+++NiflheimGoreArm.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\glacial\gores\niflheimgorearm.png
+++NiflheimGoreHead.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\glacial\gores\niflheimgorehead.png
+++NiflheimGoreIce1.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\glacial\gores\niflheimgoreice1.png
+++NiflheimGoreIce2.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\glacial\gores\niflheimgoreice2.png
+++StellarGoreCannon.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\stellar\gores\stellargorecannon.png
+++StellarGoreGlass1.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\stellar\gores\stellargoreglass1.png
+++StellarGoreGlass2.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\stellar\gores\stellargoreglass2.png
+++StellarGoreLights.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\stellar\gores\stellargorelights.png
+++StellarGorePlating.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\stellar\gores\stellargoreplating.png
+++StellarGoreRim.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\stellar\gores\stellargorerim.png
+++StellarGoreSmallGlass1.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\stellar\gores\stellargoresmallglass1.png
+++StellarGoreSmallGlass2.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\stellar\gores\stellargoresmallglass2.png
+++StellarGoreSmallLightG.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\stellar\gores\stellargoresmalllightg.png
+++StellarGoreSmallLightR.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\npcs\stellar\gores\stellargoresmalllightr.png
+++BannerDungeonMimic.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\tiles\banners\bitems\bannerdungeonmimic.png
+++BannerFossiliraptor.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\tiles\banners\bitems\bannerfossiliraptor.png
+++BannerItems.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\tiles\banners\bitems\banneritems.cs
+++BannerMeteorGolem.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\tiles\banners\bitems\bannermeteorgolem.png
+++BannerMeteorSlime.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\tiles\banners\bitems\bannermeteorslime.png
+++BannerMeteorSpirit.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\tiles\banners\bitems\bannermeteorspirit.png
+++BannerRexxie.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\tiles\banners\bitems\bannerrexxie.png
+++BannerSkylineSentinal.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\tiles\banners\bitems\bannerskylinesentinal.png
+++C:\Program Files (x86)\Steam\steamapps\common\tModLoader\Libraries\microsoft.codeanalysis.flowanalysis.utilities\2.9.6\lib\netstandard1.3\Microsoft.CodeAnalysis.FlowAnalysis.Utilities.dll
+++Microsoft.CodeAnalysis.FlowAnalysis.Utilities
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.flowanalysis.utilities\2.9.6\lib\netstandard1.3\microsoft.codeanalysis.flowanalysis.utilities.dll
+++NewFolder
+++Evil
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weaponheal\evil\
+++UsurperBolt.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weaponheal\evil\usurperbolt.png
+++UsurperCross.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weaponheal\evil\usurpercross.png
+++Usurper.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weaponheal\evil\usurper.cs
+++Holyiest
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weaponheal\holyiest\
+++GrandCross.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weaponheal\holyiest\grandcross.png
+++HolyHealers.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weaponheal\holyiest\holyhealers.cs
+++MysticCrystal.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\materials\mysticcrystal.png
+++BeatingHeart.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weaponheal\evil\beatingheart.png
+++BeatingHeart.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weaponheal\evil\beatingheart.cs
+++Paintings
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\furniture\paintings\
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\tiles\paintings\
+++ReflectivePrayer.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\furniture\paintings\reflectiveprayer.png
+++ReflectivePrayerPainting.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\tiles\paintings\reflectiveprayerpainting.png
+++Paintings.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\tiles\paintings\paintings.cs
+++PaintingItems.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\furniture\paintings\paintingitems.cs
+++SelfPortrait.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\furniture\paintings\selfportrait.png
+++SelfPortraitPicture.png
+++SelfPortraitPainting.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\tiles\paintings\selfportraitpainting.png
+++Priest
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\priest\
+++PriestBoots.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\priest\priestboots.png
+++PriestChest.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\priest\priestchest.png
+++PriestHelmet.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\priest\priesthelmet.png
+++armor_preist_Head.png
+++armor_preist_Legs.png
+++PriestHelmet_Head.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\priest\priesthelmet_head.png
+++PriestBoots_Legs.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\armor\priest\priestboots_legs.png
+++Midnight
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\midnight\
+++BlazingMidNight.png
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\midnight\blazingmidnight.png
+++Class1.cs
+++BlazingMidNight.cs
+i:{b6a75ee2-f15b-496c-9f7f-6e63ac589ced}:c:\users\owner\documents\my games\terraria\tmodloader\modsources\excels\items\weapons\midnight\blazingmidnight.cs
